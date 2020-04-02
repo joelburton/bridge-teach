@@ -1,0 +1,8 @@
+=======
+Scoring
+=======
+
+games
+rubbers
+vulnerability
+
